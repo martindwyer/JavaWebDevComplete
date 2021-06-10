@@ -1,0 +1,29 @@
+
+
+.page-heading {
+	display: block;
+	height: auto;
+	width: aut0;
+	margin: 0 auto;
+}
+
+
+.logo {
+    font-family: "MuseoModerno", cursive;
+    font-size: 2em;
+    font-weight: 1000;
+    letter-spacing: -0.05em;
+    color: #ff6a00;
+    width: 150%;
+    text-align:center;
+}
+
+.crm {
+	font-family: 'Roboto',sans-serif;
+	font-size: 3em;
+    font-weight: 1000;
+    letter-spacing: -0.05em;
+    color: #ff6a00;
+    width: 150%;
+    text-align:center;
+}
